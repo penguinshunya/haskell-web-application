@@ -1,0 +1,4 @@
+.stack-work/
+web.cabal
+*~
+access.log
